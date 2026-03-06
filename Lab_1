@@ -1,0 +1,13 @@
+Project Description
+
+This project explores the use of different AI tools such as ChatGPT, Gemini, Perplexity, and Claude to generate professional content using prompts.
+The main objective was to understand how different Large Language Models respond to the same instructions and how prompt engineering can improve the quality of the output.
+
+In this project, prompts were used to generate a professional email invitation for a workshop titled Future of Generative AI (FGAI). 
+Persona prompting was applied to make the AI respond like a research assistant or event coordinator.
+
+An event poster was generated using **DALL-E Image Creator**, and a short promotional video suitable for social media was created using **Fliki.ai and Kaleido.ai**.
+These tools demonstrate how generative AI can assist in content creation, marketing, and communication.
+
+Overall, this project helped in gaining hands-on experience with multiple AI platforms, refining prompts, and generating text, image, and video content using AI technologies.
+LINK: https://drive.google.com/drive/folders/1PTpxXVSdWo7gyEX-SkVStG_XUq6ztzqp?usp=drive_link
