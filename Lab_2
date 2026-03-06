@@ -3,4 +3,4 @@ This lab demonstrates the use of Hugging Face, Sentence Transformers, FastAI, an
 The experiment includes **sentiment analysis, text summarization, machine translation, sentence embeddings, and semantic search** using pre-trained models. 
 Additionally, a **text classification model was trained on the IMDb dataset using FastAI** to classify movie reviews as positive or negative. 
 The results were saved and evaluated to understand how modern AI frameworks simplify NLP tasks.
-LINK: https://drive.google.com/file/d/1bSnvY-fpS5dv6R2q3h7hauvZ2UbJpib9/view?usp=drive_link
+LINK: https://drive.google.com/drive/folders/1mfv9FoWbtBkXkk6z4_2ipttyOA6CNJWb?usp=drive_link
